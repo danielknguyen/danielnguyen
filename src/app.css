@@ -8,3 +8,13 @@ body,
 .reveal {
   height: 100%;
 }
+
+.reveal .slides section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align content to the top */
+  align-items: center;
+  height: 100%;
+  padding-top: 2rem; /* Add top padding */
+  box-sizing: border-box;
+}
