@@ -5,14 +5,14 @@ export const Background = () => {
       <ul>
         <li>
           5+ years building software and web applications for enterprise
-          customers
+          customers.
         </li>
         <li className="fragment">
-          Collaborated cross-functionally with PMs, designers, QA
+          Collaborated cross-functionally with PMs, designers, QA.
         </li>
-        <li className="fragment">Shipped features used on 1M+ endpoints</li>
+        <li className="fragment">Shipped features used on 1M+ endpoints.</li>
         <li className="fragment">
-          Automated processes & improved reliability through code
+          Automated processes & improved reliability through code.
         </li>
       </ul>
     </section>
